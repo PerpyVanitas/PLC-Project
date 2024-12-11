@@ -28,28 +28,25 @@
 <section id="functional-requirements">
   <ol>
   <li>
-    <strong>Lorem Ipsum</strong>: Lorem Ipsum
+    <strong>User Management System</strong>: Lorem Ipsum
   </li>
   <br>
   <li>
-    <strong>Lorem Ipsum</strong>: Lorem Ipsum
+    <strong>Profile System</strong>: Lorem Ipsum
   </li>
   <br>
   <li>
-    <strong>Lorem Ipsum</strong>: Lorem Ipsum
+    <strong>Browse System</strong>: Lorem Ipsum
   </li>
   <br>
   <li>
-    <strong>Lorem Ipsum</strong>: Lorem Ipsum
+    <strong>Attendance System</strong>: Lorem Ipsum
   </li>
   <br>
   <li>
-    <strong>Lorem Ipsum</strong>: Lorem Ipsum
+    <strong>Administrative System</strong>: Lorem Ipsum
   </li>
   <br>
-  <li>
-   <strong>Lorem Ipsum</strong>: Lorem Ipsum
-  </li>
 </ol>
 
 <br>
