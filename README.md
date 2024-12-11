@@ -34,6 +34,7 @@ This application is created for the extended services of the CIT University Hono
   <br>
   <li>
     <strong>Profile System</strong>: 
+      </li>
   <br>
   <li>
     <strong>Browse System</strong>: 
