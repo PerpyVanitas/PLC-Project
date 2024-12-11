@@ -29,29 +29,28 @@ This application is created for the extended services of the CIT University Hono
 <section id="functional-requirements">
   <ol>
   <li>
-    <strong>User Management System</strong>: Lorem Ipsum
+    <strong>User Management System</strong>: 
   </li>
   <br>
   <li>
-    <strong>Profile System</strong>: Lorem Ipsum
+    <strong>Profile System</strong>: 
+  <br>
+  <li>
+    <strong>Browse System</strong>: 
   </li>
   <br>
   <li>
-    <strong>Browse System</strong>: Lorem Ipsum
+    <strong>Attendance System</strong>: 
   </li>
   <br>
   <li>
-    <strong>Attendance System</strong>: Lorem Ipsum
-  </li>
-  <br>
-  <li>
-    <strong>Administrative System</strong>: Lorem Ipsum
+    <strong>Administrative System</strong>: 
   </li>
   <br>
 </ol>
 
 <br>
-Lorem Ipsum
+
 </section>
 
 <!-- gantt -->
@@ -72,8 +71,8 @@ Lorem Ipsum
 
 <!-- uiux -->
 ## UI UX Design
-<section id="uiux">
-  
+[<section id="uiux">
+  ](https://www.figma.com/design/J6z6uzXl1O8fitcmaAHWKg/Perpetua_CSIT327?t=WsQ6X2AcqG7Fz0gp-0)
   </a>
 </section>
 
