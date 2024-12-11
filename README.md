@@ -19,7 +19,8 @@
 <!-- about -->
 ## About The Project
 <section id="about">
-  Lorem Ipsum
+This application is created for the extended services of the CIT University Honor Society, one of its 3 Admin-commissioned organizations serving under the Office of Admissions and Scholarships (OAS), for the purposes of the Peer Learning Program, the institutional tutoring program of the University with a year long duty to supplement classroom discussions. The system is designed to supplement the needs of the Honor Society, who identified difficulty in managing physical paper trail for the booking of mentorship, as well as managing and recording the hours and interaction between the scholars on duty and their mentees.
+
 </section>
 <br>
 
