@@ -56,8 +56,7 @@ This application is created for the extended services of the CIT University Hono
 <!-- gantt -->
 ## Gantt Chart
 <section id="gantt">
- [ <a href="">
-    <img src="" alt="" />](https://docs.google.com/spreadsheets/u/1/)
+https://docs.google.com/spreadsheets/u/1/
   </a>
 </section>
 
@@ -65,14 +64,14 @@ This application is created for the extended services of the CIT University Hono
 <!-- erd -->
 ## Entity Relationship Diagram
 <section id="erd">
- (https://drive.google.com/uc?id=1fV1SEaC3ShLEX0SoAgTUl_LYkqBxk0TL)
+ https://drive.google.com/uc?id=1fV1SEaC3ShLEX0SoAgTUl_LYkqBxk0TL
 </section>
 
 
 <!-- uiux -->
 ## UI UX Design
-[<section id="uiux">
-  ](https://www.figma.com/design/J6z6uzXl1O8fitcmaAHWKg/Perpetua_CSIT327?t=WsQ6X2AcqG7Fz0gp-0)
+<section id="uiux">
+https://www.figma.com/design/J6z6uzXl1O8fitcmaAHWKg/Perpetua_CSIT327?node-id=1-2&node-type=canvas&t=WsQ6X2AcqG7Fz0gp-0
   </a>
 </section>
 
