@@ -65,7 +65,7 @@ Lorem Ipsum
 <!-- erd -->
 ## Entity Relationship Diagram
 <section id="erd">
- ![Project Image](https://drive.google.com/uc?id=1fV1SEaC3ShLEX0SoAgTUl_LYkqBxk0TL)
+ (https://drive.google.com/uc?id=1fV1SEaC3ShLEX0SoAgTUl_LYkqBxk0TL)
 </section>
 
 
