@@ -57,8 +57,8 @@ Lorem Ipsum
 <!-- gantt -->
 ## Gantt Chart
 <section id="gantt">
-  <a href="">
-    <img src="" alt="" />
+ [ <a href="">
+    <img src="" alt="" />](https://docs.google.com/spreadsheets/u/1/)
   </a>
 </section>
 
@@ -73,8 +73,7 @@ Lorem Ipsum
 <!-- uiux -->
 ## UI UX Design
 <section id="uiux">
-  <a href="" target="_blank">
-    <img src="" />
+  
   </a>
 </section>
 
